@@ -2,7 +2,7 @@
  Version: 0.9.5
 License: Creative Commons Attribution-NonCommercial-ShareAlike
 
-# Installation Instructions for Use with the Stock Solar System--
+# Installation Instructions for Use with the Stock Solar System
 1) Dependencies (install these before Real Exoplanets)
 	- Kopernicus
 	- Module Manager
@@ -13,11 +13,11 @@ License: Creative Commons Attribution-NonCommercial-ShareAlike
 	
 # Installation Instructions for Use with RSS
 1) Dependencies (install these before Real Exoplanets)
- - Real Solar System
- - Kopernicus
- - Module Manager
- - Modular Flight Integrator
- - Community Terrain Texture Pack	
+	- Real Solar System
+	- Kopernicus
+	- Module Manager
+	- Modular Flight Integrator
+	- Community Terrain Texture Pack	
 2) After REX's dependencies have been installed, install Real Exoplanets by extracting the "RealExoplanets" and "REX-Textures" files into the KSP GameData folder.
 3) (Optional) To install visuals, first install RSSVE and then install Real Exoplanets visuals by extracting the "REXVE" file into the KSP GameData folder.
 
