@@ -27,11 +27,11 @@ The settings file for REX is located in RealExoplanets/Settings.cfg. It can be u
 	2) Enable or disable systems to your desire
 	3) Enable or disable stock-alike names
 Explanation of each setting:
-	"stellarDistanceScale:NEEDS[RealSolarSystem]" - sets the scale factor for stellar distances when using RSS. A value of 10 would mean stars are 10 times further away than in real life.
-	"stellarDistanceScale:NEEDS[!RealSolarSystem]" - sets the scale factor for stellar distances when RSS is NOT installed.
-	"sizeScale" - scale factor for all distances, including planetary radii, when RSS is NOT installed.
-	"massScale" - scale factor for all masses when RSS is NOT installed.
-	"atmoScale" - scale factor for atmosphere heights when RSS is NOT installed.
-	"rotScale" - scale factor for rotational periods when RSS is NOT installed.
-	"[SystemName]" - enables or disables the respective stellar system.
-	"stockNames" - enables or disables stock-alike names when RSS is NOT installed.
+	- "stellarDistanceScale:NEEDS[RealSolarSystem]" - sets the scale factor for stellar distances when using RSS. A value of 10 would mean stars are 10 times further away than in real life.
+	- "stellarDistanceScale:NEEDS[!RealSolarSystem]" - sets the scale factor for stellar distances when RSS is NOT installed.
+	- "sizeScale" - scale factor for all distances, including planetary radii, when RSS is NOT installed.
+	- "massScale" - scale factor for all masses when RSS is NOT installed.
+	- "atmoScale" - scale factor for atmosphere heights when RSS is NOT installed.
+	- "rotScale" - scale factor for rotational periods when RSS is NOT installed.
+	- "[SystemName]" - enables or disables the respective stellar system.
+	- "stockNames" - enables or disables stock-alike names when RSS is NOT installed.
