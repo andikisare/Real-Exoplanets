@@ -1,0 +1,51 @@
+
+GENERAL
+"Earth Fact Sheet": https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+"Sun Fact Sheet": https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
+"Photochemical Haze Formation in the Atmospheres of Super-Earths and Mini-Neptunes": https://iopscience.iop.org/article/10.3847/1538-3881/aac883
+"Stabilizing Cloud Feedback Dramatically Expands the Habitable Zone of Tidally Locked Planets":https://arxiv.org/pdf/1307.0515v1.pdf
+"Validation of the new Hipparcos reduction": https://arxiv.org/pdf/0708.1752.pdf
+"Geothermal heating enhances atmospheric asymmetries on synchronously rotating planets": https://arxiv.org/abs/1410.0186
+
+PROXIMA CENTAURI
+"Proxima’s orbit around α Centauri": https://arxiv.org/pdf/1611.03495.pdf
+"Optical and infrared photometry of dwarf M and K stars": http://adsabs.harvard.edu/full/1990A%26A...235..335D
+"First radius measurements of very low mass stars with the VLTI": https://arxiv.org/pdf/astro-ph/0211647.pdf
+"Calculations of periodicity from Hα profiles of Proxima Centauri": https://arxiv.org/pdf/1608.07834.pdf
+"The Habitability of Proxima Centauri b: II: Environmental States and Observational Discriminants": https://arxiv.org/ftp/arxiv/papers/1608/1608.08620.pdf
+"A terrestrial planet candidate in a temperate orbit around Proxima Centauri": https://www.nature.com/articles/nature19106
+
+ALPHA CENTAURI
+"Constraining the difference in convective blueshift between the components of α Cen with precise radial velocities": https://arxiv.org/pdf/astro-ph/0202400.pdf
+"Asteroseismology and calibration of α Cen binary system": https://arxiv.org/pdf/astro-ph/0206283.pdf
+"The radii and limb darkenings of α Centauri A and B": https://arxiv.org/pdf/1610.06185.pdf
+"Asteroseismology of α Cen A": https://arxiv.org/pdf/0706.1682.pdf
+"X-ray, FUV, and UV observations of α Centauri B": https://arxiv.org/pdf/1009.1652.pdf
+
+BARNARD'S STAR
+"Barnard's Star and the M Dwarf Temperature Scale": https://iopscience.iop.org/article/10.1086/383289
+"Photometry of Proxima Centauri and Barnard’s Star Using HST Fine Guidance Sensor 3": https://arxiv.org/pdf/astro-ph/9806276.pdf
+"A candidate super-Earth planet orbiting near the snow line of Barnard’s star": https://arxiv.org/ftp/arxiv/papers/1811/1811.05955.pdf
+
+TEEGARDEN'S STAR
+"A 3D Search for Companions to 12 Nearby M-Dwarfs": https://arxiv.org/pdf/1501.05012.pdf
+"The Solar Neighborhood XXXII: The Hydrogen Burning Limit": https://arxiv.org/pdf/1312.1736.pdf
+"Metallicity and Temperature Indicators in M dwarf K band Spectra: Testing New & Updated Calibrations With Observations of 133 Solar Neighborhood M dwarfs": https://arxiv.org/pdf/1112.4567.pdf
+"Teegarden's Star": http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NAME+Teegarden%27s+star
+"Two temperate Earth-mass planet candidates around Teegarden’s Star": https://arxiv.org/pdf/1906.07196.pdf
+
+TAU CETI
+"Solar-like oscillations in the G8 V star τ Ceti": https://arxiv.org/pdf/0811.3989.pdf
+"Selection criteria for targets of asteroseismic campaigns": https://arxiv.org/pdf/astro-ph/0303032.pdf
+"Are beryllium abundances anomalous in stars with giant planets?": https://arxiv.org/pdf/astro-ph/0408108.pdf
+"Magnetic field and rotation in lower main-sequence stars: An empirical time-dependent magnetic Bode’s relation?": https://iopscience.iop.org/article/10.1086/309891/pdf
+"Signals embedded in the radial velocity noise": https://arxiv.org/pdf/1212.4277.pdf
+"The Debris Disk of Solar Analogue τ Ceti: Herschel Observations and Dynamical Simulations of the Proposed Multiplanet System": https://arxiv.org/pdf/1408.2791.pdf
+
+TRAPPIST-1
+"Evolved Climates and Observational Discriminants for the TRAPPIST-1 Planetary System": https://iopscience.iop.org/article/10.3847/1538-4357/aae36a/pdf
+"The nature of the TRAPPIST-1 exoplanets": https://arxiv.org/pdf/1802.01377.pdf
+"Early 2017 observations of TRAPPIST-1 with Spitzer": https://arxiv.org/pdf/1801.02554.pdf
+"Seven temperate terrestrial planets around the nearby ultracool dwarf star TRAPPIST-1": https://arxiv.org/ftp/arxiv/papers/1703/1703.01424.pdf
+"Atmospheric reconnaissance of the habitable-zone Earth-sized planets orbiting TRAPPIST-1": https://www.nature.com/articles/s41550-017-0374-z
+"Disentangling the Planet from the Star in Late-Type M Dwarfs: A Case Study of TRAPPIST-1g": https://iopscience.iop.org/article/10.3847/1538-3881/aaf04d/meta
