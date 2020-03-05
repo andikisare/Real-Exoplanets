@@ -21,6 +21,7 @@ ALPHA CENTAURI
 "The radii and limb darkenings of α Centauri A and B": https://arxiv.org/pdf/1610.06185.pdf
 "Asteroseismology of α Cen A": https://arxiv.org/pdf/0706.1682.pdf
 "X-ray, FUV, and UV observations of α Centauri B": https://arxiv.org/pdf/1009.1652.pdf
+"A low-mass planet candidate orbiting Proxima Centauri at a distance of 1.5 AU": https://advances.sciencemag.org/content/6/3/eaax7467
 
 BARNARD'S STAR
 "Barnard's Star and the M Dwarf Temperature Scale": https://iopscience.iop.org/article/10.1086/383289
