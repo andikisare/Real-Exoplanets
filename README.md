@@ -1,5 +1,5 @@
 # Real Exoplanets
- Version: 0.9.5
+ Version: 0.9.4
 License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 # Installation Instructions for Use with the Stock Solar System
