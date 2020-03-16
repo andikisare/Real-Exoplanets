@@ -2,7 +2,7 @@
  Version: 0.9.6
 License: Creative Commons Attribution-NonCommercial-ShareAlike
 
-# Installation Instructions for Use with the Stock Solar System
+## Installation Instructions for Use with the Stock Solar System
 1) Dependencies (install these before Real Exoplanets)
 	- Kopernicus
 	- Module Manager
@@ -10,7 +10,7 @@ License: Creative Commons Attribution-NonCommercial-ShareAlike
 2) After REX's dependencies have been installed, install Real Exoplanets by extracting the "RealExoplanets" and "REX-Textures" files into the KSP GameData folder.
 3) (Optional) For visuals to function, you must install SVE.
 	
-# Installation Instructions for Use with RSS
+## Installation Instructions for Use with RSS
 1) Dependencies (install these before Real Exoplanets)
 	- Real Solar System
 	- Kopernicus
@@ -19,7 +19,7 @@ License: Creative Commons Attribution-NonCommercial-ShareAlike
 2) After REX's dependencies have been installed, install Real Exoplanets by extracting the "RealExoplanets" and "REX-Textures" files into the KSP GameData folder.
 3) (Optional) For visuals to function, you must install RSSVE.
 
-# Using the Settings File
+## Using the Settings File
 The settings file for REX is located in RealExoplanets/Settings.cfg. It can be used to do the following:
 	1) Set custom scale factors
 	2) Enable or disable systems to your desire
