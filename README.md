@@ -1,6 +1,6 @@
 # Real Exoplanets
  Version: 0.9.6
-License: Creative Commons Attribution-NonCommercial-ShareAlike
+License: All Rights Reserved
 
 ### Installation Instructions for Use with the Stock Solar System
 1) Dependencies (install these before Real Exoplanets)
